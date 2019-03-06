@@ -1,0 +1,30 @@
+#calc {
+    background-color: black;
+    padding: 15px;
+    border-radius: 10px;
+    display: flex;
+    width: 200px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  
+#output {
+    border-radius: 15px;
+    background-color: white;
+    height: 10px;
+    width: 100%;
+    padding: 10px;
+  }
+  
+#calc button {
+    width: 40px;
+    height: 40px;
+    margin: 5px;
+    font-size: 1.2em;
+    border-radius: 100%;
+    text-align: center;
+  }
+
+#result {
+    background: orange;
+}
